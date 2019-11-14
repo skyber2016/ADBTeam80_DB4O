@@ -1,0 +1,17 @@
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\bin\Debug\ADBTeam01_DB4O.exe.config
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\bin\Debug\ADBTeam01_DB4O.exe
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\bin\Debug\ADBTeam01_DB4O.pdb
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\bin\Debug\Db4objects.Db4o.dll
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\bin\Debug\Mono.Reflection.dll
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\bin\Debug\Db4objects.Db4o.xml
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.csprojAssemblyReference.cache
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.Form1.resources
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.Properties.Resources.resources
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.csproj.GenerateResource.cache
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.csproj.CoreCompileInputs.cache
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.csproj.CopyComplete
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.exe
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.pdb
+C:\Project\ADBMidTermTeam80\ADBTeam01_DB4O\ADBTeam01_DB4O\obj\Debug\ADBTeam01_DB4O.frmCompany.resources
